@@ -63,11 +63,6 @@ Use the search box to get complete information about the Kubernetes resource you
 </p>
 
 
-:seedling: [KCNA Kubernetes and cloud native associate certification](https://www.youtube.com/watch?v=iGkFHB1kFZ0) by Saiyam Pathak.
-
-<p align="center">
-  <img width="700" height="380" src="img/yv-saiyam-pathak.png">
-</p>
 
 :paw_prints: [CNCF Kubernetes and Cloud Native Associate Certification Course](https://www.youtube.com/watch?v=AplluksKvzI&t=23521s) by **@andrewbrown** in **freeCodeCamp.org**, the lectures are free on youtube, if you want to access practices, flash cards, notes and more explanation, there is a paid version of this course [exampro.co](https://app.exampro.co/student/journey/kcna)(I used this last one)
 
@@ -93,8 +88,6 @@ Use the search box to get complete information about the Kubernetes resource you
 :heavy_check_mark: Follow a more detailed structure to study, in this video made by Andrew Brown in the comments section you will find the topics covered in the exam in detail. :vertical_traffic_light:
 
 :heavy_check_mark: Use PostIts shpin: to easily remember concepts that are very difficult for you to assimilate, I used it to differentiate between Deployments, StatefulSets vs DaemonSets.
-
-:heavy_check_mark: It would be nice if I could find a study partner, it's one of the ways that works for me, my study partner were [Aditya Narayan](https://www.linkedin.com/in/aditya-narayan-nayak/) who shared key resources and [Christian Rebischke](https://twitter.com/Sh1bumi) who I asked a lot.
 
 :heavy_check_mark: Deepens unclear concepts, do not stay with doubts, make questions :)
 
